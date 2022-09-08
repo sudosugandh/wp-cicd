@@ -2,7 +2,7 @@ license.txt
 readme.html
 wp-*.php
 xmlrpc.php
-
+wp-includes/*
 # Configuration
 wp-config.php
 
