@@ -1,16 +1,11 @@
-.wp-content/index.php
-/wp-content/languages
-/wp-content/plugins/index.php
-/wp-content/themes/index.php
-/index.php
-/license.txt
-/readme.html
-/wp-*.php
-/xmlrpc.php
+license.txt
+readme.html
+wp-*.php
+xmlrpc.php
 
 # Configuration
-.wp-config.php
+wp-config.php
 
-/.htaccess
+.htaccess
 
 
