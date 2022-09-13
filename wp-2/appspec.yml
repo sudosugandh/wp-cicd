@@ -1,7 +1,0 @@
-version: 0.0
-os: linux
-files:
-  - source: ./wp-2
-    destination: /var/www/html
-    overwrite: true
-file_exists_behavior: OVERWRITE
